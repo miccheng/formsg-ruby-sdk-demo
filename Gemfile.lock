@@ -1,6 +1,6 @@
 GIT
   remote: https://github.com/opengovsg/formsg-ruby-sdk.git
-  revision: 8ed67bd7489b57674709af730166aec977fd6307
+  revision: b2df115577e618db6e5c3a1370fd2dc645779b0e
   branch: main
   specs:
     formsg-sdk (0.1.0)
